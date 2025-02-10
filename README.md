@@ -1,7 +1,13 @@
-# ToDo List Server
-Aplicação backend simples de API RESTful para o cliente da aplicação desenvolvido em Java com Spring Boot rodando em ambiente Docker.
+# ToDo List Server 🍃
+Aplicação backend simples de API RESTful para o cliente da aplicação desenvolvido em *Java* e *Spring Boot* rodando em ambiente *Docker* com *Nginx* e *Postgres*.
 
-## Libs utilizadas no Projeto
+## Como rodar o Projeto 🚀
+Execute o comando para Buildar o container docker e rodar a aplicação na porta 80
+```
+docker-compose up --build -d
+```
+
+## Libs utilizadas no Projeto 📚
 - Spring Web (para criar APIs REST)
 - Spring Boot DevTools (para facilitar o desenvolvimento)
 - Lombok (para reduzir código boilerplate)
