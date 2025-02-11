@@ -2,6 +2,7 @@
 Aplicação backend simples de API RESTful para o cliente da aplicação desenvolvido em *Java* e *Spring Boot* rodando em ambiente *Docker* com *Nginx* e *Postgres*.
 
 ## Como rodar o Projeto 🚀
+Para que a aplicação funcione, é necessário ter instalado _Docker_ e _Docker Compose_ ⚠️
 Execute o comando para Buildar o container docker e rodar a aplicação na porta 80
 ```
 docker-compose up --build -d
