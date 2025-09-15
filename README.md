@@ -4,7 +4,7 @@ Aplicação backend simples de API RESTful para o cliente da aplicação desenvo
 ## Como rodar o Projeto 🚀
 Para que a aplicação funcione, é necessário ter instalado **Docker** e **Docker Compose**. ⚠️
 
-Execute o comando para Buildar o container docker e rodar a aplicação na porta 80
+Execute o comando para Buildar o container docker e rodar a aplicação localcamente em http://localhost:80
 
 ```
 docker-compose up --build -d
